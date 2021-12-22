@@ -1,3 +1,9 @@
+#Dupla com:
+#Pedro Henrique Firmino Ceruti - 20201380023
+#pedro.ceruti@academico.ifpb.edu.br
+#
+#
+
 #!/bin/bash
 KEY=$RANDOM
 
